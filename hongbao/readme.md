@@ -2,6 +2,9 @@
 function hongbao(total,num){
 
 }
+=const hongbao(total,num)=>{
+    
+}
 运算算法 ，复杂 ，变量的定义，值的存储空间
 -随机性
 公平 total/num
